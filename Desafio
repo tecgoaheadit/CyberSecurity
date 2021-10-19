@@ -1,0 +1,52 @@
+Desafio de CyberSegurança - Processo de avaliação - GoaheadIT
+
+
+Uma materia para contextualizar o desafio:
+https://www.cisoadvisor.com.br/seguranca-em-nuvem-enfrenta-desafios-pela-complexidade-e-shadow-it/
+
+Olá, 
+Seja muito bem vindo ao nosso desafio de CyberSecurity GoaheadIT.
+
+
+Sobre nós
+A Go Ahead IT é uma integradora de soluções de TI dos principais players do mercado.
+
+Fundada em 2012, nascemos do desejo de desenvolver soluções de TI focadas na satisfação dos clientes, atendendo com agilidade, qualidade, comprometimento e visando 
+parcerias sólidas e duradouras. Com forte atuação no setor da saúde, temos também grande presença nos setores de governo, finanças, varejo, startups, educação, 
+construção, serviços, entre outros. Nossas soluções são projetadas seguindo os 5 pilares: redução de custos, aumento de receita, produtividade, disponibilidade do 
+negócio, risco institucional. Contamos também com o apoio de uma equipe especializada e certificada com destaque para as soluções de rede de dados, colaboração, 
+wireless, data center, segurança e serviços de gerenciados.
+
+
+
+O Desafio
+
+Como uma integradora de soluções, a Goahead é responsável por entregar uma infraestrutura de redes e segurança para os nossos clientes. O nosso propósito neste momento
+é te desafiar a entregar um projeto para uma startup do setor financeiro (Fintech) que possuí o seguinte cenário:
+
+- A estrutura de serviços da empresa está 100% hospedada em uma núvem pública;
+- A empresa possui 1x escritório em São Paulo com 300 funcionários, distriduidos em 5 andares da empresa;
+- A empresa possui 1x escritório em Belo Horizonte com 100 funcionários, distriduidos em 2 andares da empresa;
+- 30% dos funcionários da empresa trabalham 100% em home office;
+- A empresa está passando por processos de certificação de segurança da informação para compliance no setor financeiro;
+- Nosso cliente tem uma preocupação extrema com o tema de LGPD, portanto, nós solicitou uma atenção especial a este tema no projeto.
+
+
+O que esperamos de você?
+A nossa expectativa é entender como você vai problematizar o case e como você construiria uma estrutura centrada em pessoas, processos e ferramentas, que nos dê 
+a certeza de que o nosso cliente não será mais uma empresa entrando para as estatísticas brasileiras.
+
+
+Como você irá entregar?
+
+Por favor, crie um repositório no Github documentando o seu racional e com um diagrama. Para o diagrama, sinta-se à vontade para usar qualquer tipo de ferramenta 
+para gerá-lo - pode ser um PDF, uma apresentação ou qualquer outra coisa - estamos apenas interessados no conteúdo.
+
+Não se esqueça de adicionar o @tecgoaheadit como colaborador para o seu repositório. Esta conta do Github (@tecgoaheadit) é usada exclusivamente pelos engenheiros 
+da GoaheadIT para baixar e revisar o seu desafio.
+
+Nosso departamento de RH enviará um link para enviar os dados do desafio.
+
+Boa sorte e nos vemos em breve!!!
+
+Go Ahead
